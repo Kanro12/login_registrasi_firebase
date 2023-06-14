@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "593249867901",
+    "project_id": "login-dan-registrasi-fir-ecc0a",
+    "storage_bucket": "login-dan-registrasi-fir-ecc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593249867901:android:58e609b1db5016321ef914",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593249867901-14ga5s0tljtearqic66gmebrrl3tglsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSSPjG09-fiDn_NxbjMUVJLXOyRoRf-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593249867901-14ga5s0tljtearqic66gmebrrl3tglsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593249867901:android:686827f89270c06a1ef914",
+        "android_client_info": {
+          "package_name": "com.example.logindanregistrasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593249867901-14ga5s0tljtearqic66gmebrrl3tglsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSSPjG09-fiDn_NxbjMUVJLXOyRoRf-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593249867901-14ga5s0tljtearqic66gmebrrl3tglsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
